@@ -1,0 +1,8 @@
+pandas
+sqalchemy
+nltk
+sklearn
+plotly
+flask
+
+
